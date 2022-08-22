@@ -27,14 +27,14 @@ const store = tx.objectStore('jate');
 
 //TODO: Ask if using .update instead of .add is the proper method here
 // Use the .add() method on the store and pass in the content.
-const request = store.update({ content: content });
+const request = store.add({ content: content });
 
 // Get confirmation of the request.
 const result = await request;
 console.log('🚀 - data saved to the database', result);
 };
 
-// TODO: Add logic for a method that gets all the content from the database
+// DONE: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
   console.log('GET from the database');
 
