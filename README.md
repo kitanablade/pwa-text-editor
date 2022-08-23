@@ -38,7 +38,8 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
-
+Heroku deployment:
+[Heroku PWA Text Editor](https://shielded-tundra-54243.herokuapp.com/)
 
 ## Table of Contents
 * [Installation](#installation)
