@@ -63,5 +63,5 @@ If you wish to contribute, please contact the developer.
 ## Tests
 Coming soon in V1.1
 ## Questions 
-For more information, please [email me](mailto:kit@gmail.com) or see [kitanablade's Github page](https://github.com/kitanablade).
+For more information, please [email me](mailto:kit@yahoo.com) or see [kitanablade's Github page](https://github.com/kitanablade).
 #### [⬆️ Back to Top](#description)
